@@ -1,0 +1,38 @@
+---
+# Default configuration
+title: "evens.link"
+baseURL: https://evens.link
+canonifyURLs: True
+enableEmoji: True
+enableGitInfo: True
+defaultContentLanguage: en
+languageCode: en-us
+paginate: 10
+
+copyright : "Copyright © 2020 Evens SOLIGNAC. Tous droits réservés."
+
+# Directories
+archetypeDir: archetypes
+contentDir: content
+dataDir: data
+publishDir: public
+staticDir: static
+layoutdir: layouts
+
+# Theme
+theme: "hugo-split-theme"
+
+blackfriday:
+  hrefTargetBlank: true
+
+# Params
+params:
+  author: "Evens SOLIGNAC"
+  favicon: "favicon/favicon-16x16.png"
+  visual:
+    image:
+      enable: true
+      file: "images/IMG_4794.png"
+      position: "center center"
+  # links:
+  #   menu:
