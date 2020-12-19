@@ -1,7 +1,7 @@
 ---
 # Default configuration
 title: "evens.link"
-baseURL: https://evens.link
+baseURL: https://evens.link/fr
 canonifyURLs: True
 enableEmoji: True
 enableGitInfo: True
@@ -19,6 +19,27 @@ publishDir: public
 staticDir: static
 layoutdir: layouts
 
+languages:
+  fr:
+    title: "Evens SOLIGNAC"
+    languageName: Français
+    baseURL: https://evens.link/fr
+    contentDir: content/fr
+    weight: 1
+  es:
+    title: "Evens SOLIGNAC — (Espanõl)"
+    languageName: Espanõl
+    baseURL: https://evens.link/es
+    contentDir: content/es
+    weight: 2
+  en:
+    title: "Evens SOLIGNAC — (English)"
+    languageName: English
+    baseURL: https://evens.link/en
+    contentDir: content/en
+    weight: 3
+
+
 # Theme
 theme: "hugo-split-theme"
 
@@ -28,11 +49,27 @@ blackfriday:
 # Params
 params:
   author: "Evens SOLIGNAC"
-  favicon: "favicon/favicon-16x16.png"
+  favicon: "favicon.ico"
   visual:
     image:
       enable: true
       file: "images/IMG_4794.png"
       position: "center center"
-  # links:
-  #   menu:
+  custom:
+    css:
+      enable: true
+  links:
+    - list1:
+        heading: '#THESLGCOMPAGNY'
+        link:
+          - text: SLGSHOPPING
+            url: 'https://slgshopping.com'
+          - text: GITHUB
+            url: 'https://github.com/slgevens/'
+    - list2:
+        heading: '#LIVE'
+        link:
+          - text: SABRINALOSTEO
+            url: 'https://sabrinalosteo.paris'
+          - text: NOSTRUMCARE
+            url: 'https://www.nostrumcare.fr/'

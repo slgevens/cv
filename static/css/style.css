@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Cabin");
+@import url("https://fonts.googleapis.com/css?family=Arvo");
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+/* # name & surname */
+.split-intro h1 {
+    font-size: 30px;
+    text-transform: initial;
+    margin-top: 50%;
+    margin-bottom: 2%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: #A50104;
+}
+/* # job title */
+.split-intro .tagline {
+    font-size: 67px;
+    font-family: 'Lato', sans-serif;
+    color: #F3F3F3;
+}
+/* # */
+.split-bio h1, .split-bio .h1 {
+    color: #F3F3F3;
+    font-family: 'Lato', sans-serif;
+}
+/* ## */
+.split-bio h2, .split-bio .h2 {
+    padding: -1px 0 20px 0;
+    font-family: 'Lato', sans-serif;
+    font-size: 30px; 
+    color: #F3F3F3;
+}
+/* ### */
+.split-bio h3, .split-bio .h3 {
+    padding: -1px 0 20px 0;
+    font-family: 'Lato', sans-serif;
+    font-size: 21px; 
+    color: #F3F3F3;
+    font-weight: bold;
+}
+/* ######  */
+.split-bio h6, .split-bio .h6 {
+    font-family: 'Lato', sans-serif;
+    font-size: 17px; 
+    color: #F3F3F3;
+}
+.split-bio table {
+    margin-left: auto;
+    font-family: 'Lato', sans-serif;
+}
+.split-bio ul {
+    font-family: 'Lato', sans-serif;
+    color: #F3F3F3;
+    font-size: 18px; 
+}
