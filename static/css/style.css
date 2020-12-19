@@ -25,14 +25,12 @@
 }
 /* ## */
 .split-bio h2, .split-bio .h2 {
-    padding: -1px 0 20px 0;
     font-family: 'Lato', sans-serif;
     font-size: 30px; 
     color: #F3F3F3;
 }
 /* ### */
 .split-bio h3, .split-bio .h3 {
-    padding: -1px 0 20px 0;
     font-family: 'Lato', sans-serif;
     font-size: 21px; 
     color: #F3F3F3;
