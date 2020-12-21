@@ -1,0 +1,2 @@
+ErrorDocument 404 https://evens.link/404/
+ErrorDocument 500 https://evens.link/500/
