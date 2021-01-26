@@ -54,14 +54,14 @@ params:
   visual:
     image:
       enable: true
-      file: "images/IMG_4794.png"
+      file: "images/IMG_4070.jpg"
       position: "center center"
   custom:
     css:
       enable: true
   links:
     - list1:
-        heading: '#THESLGCOMPAGNY'
+        heading: '#THESLGCOMPANY'
         link:
           - text: SLGSHOPPING
             url: 'https://slgshopping.com'
