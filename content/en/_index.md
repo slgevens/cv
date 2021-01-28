@@ -18,22 +18,23 @@ ___
 <!-- ## Experiences -->
 
 ### 2019 — DevOps Engineer @ [Besedo](https://besedo.com/)
-- Designing, maintaining, optimizing and ensure high availability for high traffic infrastructure
-- Daily problems resolutions
-- Automation implementation technics and service industrialization
-- Development teams support on deployment (software, micro-services, big data, machine learning)
-- Clusters management
-- Handling existing or new hardware for development teams
+- Design, maintenance, optimization and guarantee high availability for high traffic infrastructures
+- Processing of daily requests
+- Application of techniques for implementing automation and industrialization of services
+- Support of development teams on deployments (software, micro-services, machine learning services)
+- Management of micro-services clusters
+- Management of physical IT equipment for development teams
 
 ### 2016 — Freelance @ [evens.link](#)
-- Architecture & infrastructure design and deployment
+- Architectural design and infrastructure deployment
 - Audit and IT consulting
-- IAAS management and maintenance
-- Website deployment and configuration
+- Management and maintenance of infrastructure as a service
+- Deployment and configuration of multiple types of websites
 
 ### 2015/18 — System and network administrator @ [Epiconcept](https://www.epiconcept.fr)
-- System administration and company network (70 employees)
-- Deployment, management and maintenance of virtualization system
+- Administration of production systems and networks
+- IT park management for around 70 employees
+- Deployment, management and maintenance of virtualization systems
 - Orchestration and deployment of services and software
 - Maintenance of proprietary network equipment
 

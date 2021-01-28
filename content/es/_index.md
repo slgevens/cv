@@ -19,21 +19,22 @@ ___
 
 ### 2019 — Ingeniero DevOps @ [Besedo](https://besedo.com/)
 - Diseño, mantenimiento, optimización y garantía de alta disponibilidad para infraestructuras de alto tráfico
-- Resolver problemas diarios
-- Técnicas para implementar la automatización e industrialización de servicios
-- Soporte de equipos de desarrollo en implementación (software, microservicios, big data, aprendizaje automático)
-- Administrar clústeres
-- Gestión de material existente o nuevo para equipos de desarrollo
+- Procesamiento de solicitudes diarias
+- Aplicación de técnicas para implementar la automatización e industrialización de servicios
+- Soporte de equipos de desarrollo en implementaciones (software, microservicios, servicios de aprendizaje automático)
+- Gestión de clústeres de microservicios
+- Gestión de equipos informáticos físicos para equipos de desarrollo
 
 ### 2016 — Independiente @ [evens.link](#)
-- Diseño e implementación de arquitectura e infraestructura
+- Diseño arquitectónico e implementación de infraestructura
 - Auditoría y consultoría informática
-- Gestión y mantenimiento de IAAS
-- Implementación y configuración de sitios web
+- Gestión y mantenimiento de infraestructura como servicio
+- Implementación y configuración de múltiples tipos de sitios web
 
 ### 2015/18 — Administrador de sistema y red @ [Epiconcept](https://www.epiconcept.fr)
-- Administración del sistema y red de la empresa (70 empleados)
-- Implementación, gestión y mantenimiento del sistema de virtualización
+- Administración de sistemas y redes de producción
+- Gestión del parque de TI para alrededor de 70 empleados
+- Despliegue, gestión y mantenimiento de sistemas de virtualización
 - Orquestación e implementación de servicios y software
 - Mantenimiento de equipos de red patentados
 <br />
