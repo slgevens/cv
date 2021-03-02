@@ -63,7 +63,7 @@ params:
     - list1:
         heading: '#THESLGCOMPANY'
         link:
-          - text: '#THESLGSTORE'
+          - text: THESLGSTORE
             url: 'https:/theslgstore.com'
           - text: GITHUB
             url: 'https://github.com/slgevens/'
