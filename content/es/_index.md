@@ -4,12 +4,12 @@ tagline: Emprendedor. Ingeniero DevOps.
 ---
 ||
 |-:|
-| Paris, France :office: |
+| Paris, Francia :office: |
 | [evenssolignac@evens.link](#) :e-mail: |
 | 650€ TTC / dia :moneybag: |
-| [Français :fr:](https://evens.link) |
-| [English :us:](https://evens.link/en/) |
-| [Espanõl :es:](https://evens.link/es/) |
+| [Francés :fr:](https://evens.link) |
+| [Inglés :us:](https://evens.link/en/) |
+| [Español :es:](https://evens.link/es/) |
 
 <br />
 ___
@@ -49,14 +49,14 @@ ___
 
 <!-- ## Formación -->
 
-### 2016/18 — Maestría @ [ESTIAM - France](https://www.estiam.education)
+### 2016/18 — Maestría @ [ESTIAM - Francia](https://www.estiam.education)
 - Arquitectura de soluciones de medios para distribución de contenido
 - Asociación de formación en el Instituto Nacional del Audiovisual - Francia (INA)
 
-### 2015/16 — Título de grado @ [ITIC - France](https://www.iticparis.com)
+### 2015/16 — Título de grado @ [ITIC - Francia](https://www.iticparis.com)
 - Título de grado — Seguridad e informática en red
 
-### 2012/13 — Bachillerato @ [Jean Perrin - France](https://www.jeanperrin.org/portail/)
+### 2012/13 — Bachillerato @ [Jean Perrin - Francia](https://www.jeanperrin.org/portail/)
 - Bachillerato profesional — Sistema electrónico y digital
 
 <br />

@@ -8,8 +8,8 @@ tagline: Entrepreneur. Ingénieur DevOps.
 | [evenssolignac@evens.link](#) :e-mail: |
 | 650€ TTC / jour :moneybag: |
 | [Français :fr:](https://evens.link) |
-| [English :us:](https://evens.link/en/) |
-| [Espanõl :es:](https://evens.link/es/) |
+| [Anglais :us:](https://evens.link/en/) |
+| [Espagnol :es:](https://evens.link/es/) |
 
 <br />
 ___
