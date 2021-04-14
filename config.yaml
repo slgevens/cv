@@ -63,14 +63,14 @@ params:
     - list1:
         heading: '#THESLGCOMPANY'
         link:
-          - text: THESLGSTORE
-            url: 'https:/theslgstore.com'
+          # - text: THESLGSTORE
+          #   url: 'https:/theslgstore.com'
           - text: GITHUB
             url: 'https://github.com/slgevens/'
     - list2:
         heading: '#LIVE'
         link:
-          - text: SABRINALOSTEO
-            url: 'https://sabrinalosteo.paris'
+          # - text: SABRINALOSTEO
+          #   url: 'https://sabrinalosteo.paris'
           - text: NOSTRUMCARE
             url: 'https://www.nostrumcare.fr/'

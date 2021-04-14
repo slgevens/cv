@@ -50,7 +50,7 @@ ___
 
 <!-- ## Formations -->
 
-### 2016/18 — Master 1 @ [ESTIAM](https://www.estiam.education)
+### 2016/18 — Master 2 @ [ESTIAM](https://www.estiam.education)
 - Architecture des solutions médias pour la diffusion de contenus
 - Partenariat formation à l’Institut National de l’audiovisuel (INA)
 
