@@ -42,6 +42,7 @@ ___
 <!-- ## Habilidades -->
 
 ###### :hammer_and_wrench: linux, aws, proxmox, docker, terraform, ansible, jenkins, kubernetes, vault, ci/cd, ipsec, postgresql, apache, etc...
+###### :mortar_board: ITIL v4
 
 <br />
 ___
