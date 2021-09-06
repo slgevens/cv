@@ -6,7 +6,6 @@ tagline: Emprendedor. Ingeniero DevOps.
 |-:|
 | Paris, Francia :office: |
 | [evenssolignac@evens.link](#) :e-mail: |
-| 650€ TTC / dia :moneybag: |
 | [Francés :fr:](https://evens.link) |
 | [Inglés :us:](https://evens.link/en/) |
 | [Español :es:](https://evens.link/es/) |
