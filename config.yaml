@@ -75,7 +75,7 @@ params:
           - text: NOSTRUM CARE
             url: 'https://www.nostrumcare.fr/'
     - list3:
-        heading: '#MESGARSSUR'
+        heading: '#MESGARSSÛR'
         link:
           - text: ROMAIN GUILMONT
             url: 'https://rguilmont.net/'
