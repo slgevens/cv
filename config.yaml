@@ -9,7 +9,7 @@ defaultContentLanguage: fr
 languageCode: fr
 paginate: 10
 
-copyright : "Copyright © 2022 Evens SOLIGNAC. Tous droits réservés."
+copyright : "Copyright © 2016-2022 Evens SOLIGNAC. Tous droits réservés."
 
 # Directories
 archetypeDir: archetypes
