@@ -5,7 +5,7 @@ tagline: Entrepreneur. Ingénieur DevOps.
 ||
 |-:|
 | Paris, France :office: |
-| [evenssolignac@evens.link](#) :e-mail: |
+| [evens@evens.link](#) :e-mail: |
 | [Français :fr:](https://evens.link) |
 | [Anglais :us:](https://evens.link/en/) |
 | [Espagnol :es:](https://evens.link/es/) |
