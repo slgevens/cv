@@ -1,64 +1,68 @@
 ---
 title: Evens SOLIGNAC
-tagline: Entrepreneur. DevOps Engineer.
+tagline: Entrepreneur, DevOps Architect.
 ---
+
 ||
 |-:|
 | Paris, France :office: |
-| [evens@evens.link](#) :e-mail: |
-| [French :fr:](https://evens.link) |
-| [English :us:](https://evens.link/en/) |
-| [Spanish :es:](https://evens.link/es/) |
+| [evens@evens.link](mailto:evens@evens.link) :e-mail: |
+| [Français \ :full_moon: :full_moon: :full_moon: :fr:](https://evens.link) |
+| [Español / :full_moon: :waning_crescent_moon: :new_moon: :es:](https://evens.link/es/) |
 
 <br />
 ___
 <br />
 
-<!-- ## Experiences -->
+## | Fonctions
 
-### 2019 — DevOps Engineer @ [Besedo](https://besedo.com/)
-- Design, maintenance, optimization and guarantee high availability for high traffic infrastructures
-- Processing of daily requests
-- Application of techniques for implementing automation and industrialization of services
-- Support of development teams on deployments (software, micro-services, machine learning services)
-- Management of micro-services clusters
-- Management of physical IT equipment for development teams
+### 2019 — Lead DevOps @ [Besedo](https://besedo.com/)
+- Leadership and mentoring skills to guide and support the DevOps team.
+- Designing, maintaining, optimizing, and ensuring high availability of high-traffic infrastructures (~500rq/s).
+- Supporting development and data science teams.
+- Developing and monitoring incident response plans, participating in incident resolution and post-mortem - analysis.
+- Expertise in defining and managing infrastructure using Infrastructure as Code (IaC) principles.
+- Implementing automation and industrialization techniques for services.
+- Managing deployments/development (software, microservices, machine learning services).
+- Continuously improving and optimizing existing processes and systems (efficiency and reliability).
 
-### 2016 — Freelance @ [evens.link](#)
-- Architectural design and infrastructure deployment
-- Audit and IT consulting
-- Management and maintenance of infrastructure as a service
-- Deployment and configuration of multiple types of websites
+### 2016 — Entrepreneur @ [evens.link](#)
+- Design and deployment of infrastructures.
+- IT audit and consulting.
+- Deployment, management, and maintenance of IAAS (Infrastructure as a Service).
 
 ### 2015/18 — System and network administrator @ [Epiconcept](https://www.epiconcept.fr)
-- Administration of production systems and networks
-- IT park management for around 70 employees
-- Deployment, management and maintenance of virtualization systems
-- Orchestration and deployment of services and software
-- Maintenance of proprietary network equipment
+- Administration of production systems and networks.
+- Management of the IT infrastructure for ~70 collaborators.
+- Deployment, management, and maintenance of virtualization systems.
+- Orchestration and deployment of services and software.
+- Maintenance of proprietary network equipment.
 
 <br />
 
-<!-- ## Skills -->
+## | Skills
 
-###### :hammer_and_wrench: linux, aws, proxmox, docker, terraform, ansible, jenkins, kubernetes, vault, ci/cd, ipsec, postgresql, apache, etc...
-###### :mortar_board: ITIL v4
+- __Soft Skills__: _Team leadership, adaptability, problem-solving, incident management, continuous improvement, documentation_
+- __Operating System__: _Linux_
+- __Databases__: _MariaDB, PostgreSQL, MongoDB, Redis_
+- __Containerization__: _Docker, Kubernetes_
+- __Networking__: _IPSec, OpenVPN, CDN_
+- __Infrastructure as Code__: _Ansible, Terraform, Jenkins, Gitlab_
+- __Monitoring__: _Opensearch, Prometheus, Grafana, ELK, vector.dev_
+- __Cloud__: _Amazon Web Services_
+- __Certifications__:
+    - _ITIL v4 (May 2020)_
 
 <br />
 ___
 <br />
 
-<!-- ## Training -->
+## | Training
 
 ### 2016/18 — Master's Degree @ [ESTIAM - France](https://www.estiam.education)
 - Architecture of media solutions for content distribution
 - Training partnership at the National Audiovisual Institute - France (INA)
 
-### 2015/16 — Bachelor's Degree @ [ITIC - France](https://www.iticparis.com)
-- Bachelor's Degree — Network computing and security
-
-### 2012/13 — High School Diploma @ [Jean Perrin - France](https://www.jeanperrin.org/portail/)
-- Professional High School Diploma — Electronic and digital system
 <br />
 ___
 <br />

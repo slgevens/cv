@@ -74,6 +74,10 @@ params:
           #   url: 'https://sabrinalosteo.paris'
           - text: NOSTRUM CARE
             url: 'https://www.nostrumcare.fr/'
+          - text: MA WEB MUTUELLE
+            url: 'https://apps.apple.com/us/app/mwm/id1593180602'
+          - text: BESEDO
+            url: 'https://besedo.com/'
     - list3:
         heading: '#MESGARSSÛR'
         link:
