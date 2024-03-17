@@ -4,10 +4,9 @@ tagline: Entrepreneur, Architecte DevOps.
 ---
 ||
 |-:|
-| Paris, France :office: |
+| Paris, France :earth_americas: |
 | [evens@evens.link](mailto:evens@evens.link) :e-mail: |
-| [English \ :full_moon: :full_moon: :full_moon: :us:](https://evens.link/en/) |
-| [Español / :full_moon: :waning_crescent_moon: :new_moon: :es:](https://evens.link/es/) |
+| [:us:](https://evens.link/en/) / [:es:](https://evens.link/es/) |
 
 <br />
 ___
@@ -61,7 +60,7 @@ ___
 
 ## | Formation
 
-### 2016/18 — Master 2 @ [ESTIAM](https://www.estiam.education)
+### 2016/18 — Master (RNCP1) @ [ESTIAM](https://www.estiam.education)
 - Architecture des solutions médias pour la diffusion de contenus
 - Partenariat formation à l’Institut National de l’audiovisuel (INA)
 

@@ -5,10 +5,9 @@ tagline: Entrepreneur, DevOps Architect.
 
 ||
 |-:|
-| Paris, France :office: |
+| Paris, France :earth_americas: |
 | [evens@evens.link](mailto:evens@evens.link) :e-mail: |
-| [Français \ :full_moon: :full_moon: :full_moon: :fr:](https://evens.link) |
-| [Español / :full_moon: :waning_crescent_moon: :new_moon: :es:](https://evens.link/es/) |
+| [:fr:](https://evens.link) / [:es:](https://evens.link/es/) |
 
 <br />
 ___
@@ -22,9 +21,9 @@ ___
 - Supporting development and data science teams.
 - Developing and monitoring incident response plans, participating in incident resolution and post-mortem - analysis.
 - Expertise in defining and managing infrastructure using Infrastructure as Code (IaC) principles.
-- Implementing automation and industrialization techniques for services.
-- Managing deployments/development (software, microservices, machine learning services).
-- Continuously improving and optimizing existing processes and systems (efficiency and reliability).
+    - Implementing automation and industrialization techniques for services.
+    - Managing deployments/development (software, microservices, machine learning services).
+    - Continuously improving and optimizing existing processes and systems (efficiency and reliability).
 
 ### 2016 — Entrepreneur @ [evens.link](#)
 - Design and deployment of infrastructures.
@@ -59,7 +58,7 @@ ___
 
 ## | Training
 
-### 2016/18 — Master's Degree @ [ESTIAM - France](https://www.estiam.education)
+### 2016/18 — Master's Degree (RNCP1) @ [ESTIAM - France](https://www.estiam.education)
 - Architecture of media solutions for content distribution
 - Training partnership at the National Audiovisual Institute - France (INA)
 

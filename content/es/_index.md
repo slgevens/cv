@@ -4,10 +4,9 @@ tagline: Emprendedor, Arquitecto DevOps.
 ---
 ||
 |-:|
-| Paris, France :office: |
+| Paris, France :earth_americas: |
 | [evens@evens.link](mailto:evens@evens.link) :e-mail: |
-| [Français \ :full_moon: :full_moon: :full_moon: :fr:](https://evens.link) |
-| [English / :full_moon: :full_moon: :full_moon: :us:](https://evens.link/en/) |
+| [:fr:](https://evens.link) / [:us:](https://evens.link/en/) |
 
 <br />
 ___
@@ -21,9 +20,9 @@ ___
 - Apoyo a los equipos de desarrollo y ciencia de datos.
 - Desarrollo y seguimiento de planes de respuesta a incidentes, participación en la resolución de incidentes - y análisis post-mortem.
 - Expertise en la definición y gestión de infraestructura utilizando los principios de Infraestructura como Código (IaC).
-- Aplicación de técnicas de automatización e industrialización de servicios.
-- Gestión de despliegues/desarrollo (software, microservicios, servicios de aprendizaje automático).
-- Mejora y optimización continua de los procesos y sistemas existentes (eficiencia y fiabilidad).
+    - Aplicación de técnicas de automatización e industrialización de servicios.
+    - Gestión de despliegues/desarrollo (software, microservicios, servicios de aprendizaje automático).
+    - Mejora y optimización continua de los procesos y sistemas existentes (eficiencia y fiabilidad).
 
 ### 2016 — Emprendedor @ [evens.link](#)
 - Diseño y despliegue de infraestructuras.
@@ -60,7 +59,7 @@ ___
 
 ## | Formación
 
-### 2016/18 — Maestría @ [ESTIAM - Francia](https://www.estiam.education)
+### 2016/18 — Maestría (RNCP1) @ [ESTIAM - Francia](https://www.estiam.education)
 - Arquitectura de soluciones de medios para distribución de contenido
 - Asociación de formación en el Instituto Nacional del Audiovisual - Francia (INA)
 

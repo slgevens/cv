@@ -9,7 +9,7 @@ defaultContentLanguage: fr
 languageCode: fr
 paginate: 10
 
-copyright : "Copyright © 2016-2022 Evens SOLIGNAC. Tous droits réservés."
+copyright : "Copyright © 2016 – 2024 Evens SOLIGNAC. Tous droits réservés."
 
 # Directories
 archetypeDir: archetypes
@@ -54,7 +54,7 @@ params:
   visual:
     image:
       enable: true
-      file: "images/IMG_4070.jpg"
+      file: "images/kBxyP2pgH75p1cKf.jpeg"
       position: "center center"
   custom:
     css:
