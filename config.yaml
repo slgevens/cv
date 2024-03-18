@@ -26,12 +26,12 @@ languages:
     baseURL: https://evens.link/
     contentDir: content
     weight: 1
-  es:
-    title: "Evens SOLIGNAC — (Espanõl)"
-    languageName: Espanõl
-    baseURL: https://evens.link/es
-    contentDir: content/es
-    weight: 2
+  # es:
+  #   title: "Evens SOLIGNAC — (Espanõl)"
+  #   languageName: Espanõl
+  #   baseURL: https://evens.link/es
+  #   contentDir: content/es
+  #   weight: 2
   en:
     title: "Evens SOLIGNAC — (English)"
     languageName: English
@@ -63,10 +63,12 @@ params:
     - list1:
         heading: '#THESLGCOMPANY'
         link:
-          # - text: THESLGSTORE
-          #   url: 'https:/theslgstore.com'
           - text: GITHUB
             url: 'https://github.com/slgevens/'
+          - text: "CV (FR) (PDF)"
+            url: "misc/vYVz4oI8A8dE1IFp.pdf"
+          - text: "CV (EN) (PDF)"
+            url: "misc/h3MAn8KZ5wyHv4G0.pdf"
     - list2:
         heading: '#LIVE'
         link:
