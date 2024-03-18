@@ -1,6 +1,5 @@
 ---
 title: Evens SOLIGNAC
-
 tagline: Entrepreneur, Architecte DevOps.
 ---
 ||
@@ -10,7 +9,9 @@ tagline: Entrepreneur, Architecte DevOps.
 | [:us:](https://evens.link/en/) |
 
 <br/>
-__________________________________________________________________
+
+___
+
 <br/>
 
 ## —\ Fonctions
@@ -44,6 +45,7 @@ __________________________________________________________________
 - Maintenance d'équipements réseaux propriétaire
 
 <br/>
+
 <br/>
 
 ## —\ Formation
@@ -51,8 +53,6 @@ __________________________________________________________________
 - Architecture des solutions médias pour la diffusion de contenus
 - Partenariat formation à l’Institut National de l’audiovisuel (INA)
 
-<br/>
-<br/>
 
 ## —\ Aptitudes
 - __Soft Skills__: _Leadership d'équipe, adaptabilité, résolution de problèmes, gestion des incidents, amélioration continue, documentation_
@@ -67,5 +67,7 @@ __________________________________________________________________
     - _ITIL v4 (Mai 2020)_
 
 <br/>
-__________________________________________________________________
+
+___
+
 <br/>

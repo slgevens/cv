@@ -1,6 +1,5 @@
 ---
 title: Evens SOLIGNAC
-
 tagline: Entrepreneur, DevOps Architect.
 ---
 
@@ -12,7 +11,9 @@ tagline: Entrepreneur, DevOps Architect.
 <!-- | [:fr:](https://evens.link) / [:es:](https://evens.link/es/) | -->
 
 <br/>
-__________________________________________________________________
+
+___
+
 <br/>
 
 ## —\ Fonctions
@@ -46,6 +47,7 @@ __________________________________________________________________
 - Maintenance of proprietary network equipment.
 
 <br/>
+
 <br/>
 
 ## —\ Training
@@ -54,6 +56,7 @@ __________________________________________________________________
 - Training partnership at the National Audiovisual Institute - France (INA)
 
 <br/>
+
 <br/>
 
 ## —\ Skills
@@ -69,5 +72,7 @@ __________________________________________________________________
     - _ITIL v4 (May 2020)_
 
 <br/>
-__________________________________________________________________
+
+___
+
 <br/>
