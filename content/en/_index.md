@@ -61,13 +61,14 @@ ___
 
 ## —\ Skills
 - __Soft Skills__: _Team leadership, adaptability, problem-solving, incident management, continuous improvement, documentation_
-- __Operating System__: _Linux_
-- __Databases__: _MariaDB, PostgreSQL, MongoDB, Redis_
+- __Operating System__: _Linux, OSX_
+- __Databases__: _MariaDB, PostgreSQL, MongoDB, Redis, Vault_
 - __Containerization__: _Docker, Kubernetes_
 - __Networking__: _IPSec, OpenVPN, CDN_
 - __Infrastructure as Code__: _Ansible, Terraform, Jenkins, Gitlab_
 - __Monitoring__: _Opensearch, Prometheus, Grafana, ELK, vector.dev_
 - __Cloud__: _Amazon Web Services_
+    - _EKS, Opensearch, EC2, SQS, SNS, S3, DynamoDB, Cloudfront, VPC, KMS, Billing_
 - __Certifications__:
     - _ITIL v4 (May 2020)_
 
