@@ -66,9 +66,9 @@ params:
           - text: GITHUB
             url: 'https://github.com/slgevens/'
           - text: "CV (FR) (PDF)"
-            url: "misc/vYVz4oI8A8dE1IFp.pdf"
+            url: "misc/FvYVz4oI8A8dE1IFp.pdf"
           - text: "CV (EN) (PDF)"
-            url: "misc/h3MAn8KZ5wyHv4G0.pdf"
+            url: "misc/Eh3MAn8KZ5wyHv4G0.pdf"
     - list2:
         heading: '#LIVE'
         link:

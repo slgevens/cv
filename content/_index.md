@@ -20,6 +20,8 @@ ___
 - Développement de compétence en leadership et en mentorat pour guider et soutenir l’équipe DevOps.
     - Transition de la gestion solitaire des opérations IT à la constitution et à la supervision d'une équipe dédiée. 
     - Recrutement, formation et encadrement de 2 collaborateurs, favorisant la croissance de l’équipe et le partage des connaissances.
+- Initiatives d'optimisation des coûts
+	- Dirigé et mis en œuvre des actions stratégiques d'optimisation des coûts, réduisant les dépenses opérationnelles.
 
 ### 2019-2021 – DevOps @ [Besedo](https://besedo.com/)
 - Conception, entretien, optimisation et garanti haute disponibilité d’infrastructures à fort trafic (~500rq/s).

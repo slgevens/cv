@@ -22,6 +22,8 @@ ___
 - Leadership and mentoring skills to guide and support the DevOps team.
     - Transition from managing IT operations alone to building and supervising a dedicated team. 
     - Recruitment, training and supervision of 2 employees, promoting team growth and knowledge sharing.
+- Cost optimization initiatives
+	- Led and implemented strategic cost optimization actions, reducing operational expenses.
 
 ### 2019-2021 – DevOps @ [Besedo](https://besedo.com/)
 - Designing, maintaining, optimizing, and ensuring high availability of high-traffic infrastructures (~500rq/s).
