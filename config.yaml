@@ -26,12 +26,6 @@ languages:
     baseURL: https://evens.link/
     contentDir: content
     weight: 1
-  # es:
-  #   title: "Evens SOLIGNAC — (Espanõl)"
-  #   languageName: Espanõl
-  #   baseURL: https://evens.link/es
-  #   contentDir: content/es
-  #   weight: 2
   en:
     title: "Evens SOLIGNAC — (English)"
     languageName: English
@@ -49,7 +43,7 @@ blackfriday:
 params:
   author: "Evens SOLIGNAC"
   description: "Evens SOLIGNAC - evens.link"
-  shareImage: "images/logo_v2-400.png"
+  shareImage: "images/es.png"
   favicon: "favicon.ico"
   visual:
     image:
@@ -72,16 +66,9 @@ params:
     - list2:
         heading: '#LIVE'
         link:
-          # - text: SABRINALOSTEO
-          #   url: 'https://sabrinalosteo.paris'
           - text: NOSTRUM CARE
             url: 'https://www.nostrumcare.fr/'
           - text: MA WEB MUTUELLE
             url: 'https://apps.apple.com/us/app/mwm/id1593180602'
           - text: BESEDO
             url: 'https://besedo.com/'
-    - list3:
-        heading: '#MESGARSSÛR'
-        link:
-          - text: ROMAIN GUILMONT
-            url: 'https://rguilmont.net/'
