@@ -9,9 +9,7 @@ tagline: Entrepreneur, Architecte DevOps.
 | [:us:](https://evens.link/en/) |
 
 <br/>
-
 ___
-
 <br/>
 
 ## —\ Fonctions
@@ -19,7 +17,7 @@ ___
 ### 2022 – Lead DevOps @ [Besedo](https://besedo.com/)
 - Développement de compétence en leadership et en mentorat pour guider et soutenir l’équipe DevOps.
     - Transition de la gestion solitaire des opérations IT à la constitution et à la supervision d'une équipe dédiée. 
-    - Recrutement, formation et encadrement de 2 collaborateurs, favorisant la croissance de l’équipe et le partage des connaissances.
+    - Recrutement, formation et encadrement de 4 collaborateurs, favorisant la croissance de l’équipe et le partage des connaissances.
 - Initiatives d'optimisation des coûts
 	- Dirigé et mis en œuvre des actions stratégiques d'optimisation des coûts, réduisant les dépenses opérationnelles.
 
@@ -47,7 +45,6 @@ ___
 - Maintenance d'équipements réseaux propriétaire
 
 <br/>
-
 <br/>
 
 ## —\ Formation
@@ -55,22 +52,24 @@ ___
 - Architecture des solutions médias pour la diffusion de contenus
 - Partenariat formation à l’Institut National de l’audiovisuel (INA)
 
-
-## —\ Aptitudes
-- __Soft Skills__: _Leadership d'équipe, adaptabilité, résolution de problèmes, gestion des incidents, amélioration continue, documentation_
-- __Système d'exploitation__: _Linux, OSX_
-- __Bases de données__: _MariaDB, PostgreSQL, MongoDB, Redis, Vault_
-- __Containerisation__: _Docker, Kubernetes_
-- __Réseau__: _IPSec, OpenVPN, CDN_
-- __Infrastructure as Code__: _Ansible, Terraform, Jenkins, Gitlab_
-- __Monitoring__: _Opensearch, Prometheus, Grafana, ELK, vector.dev_
-- __Cloud__: _Amazon Web Services_
-    - _EKS, Opensearch, EC2, SQS, SNS, S3, DynamoDB, Cloudfront, VPC, KMS, Billing_
-- __Certifications__:
-    - _ITIL v4 (Mai 2020)_
-
+<br/>
 <br/>
 
-___
+## —\ Aptitudes
+| | |
+|:--------|:--------:|
+| **Soft** | Leadership d'équipe, adaptabilité, résolution de problèmes, gestion des incidents, amélioration continue, documentation |
+| **OS** | Linux, OSX |
+| **B.d.d**   | MariaDB, PostgreSQL, MongoDB, Redis, Vault |
+| **Containerisation**   | Docker, Kubernetes |
+| **Réseau**             | IPSec, OpenVPN, CDN |
+| **IaC** | Ansible, Terraform, Jenkins, Gitlab |
+| **Monitoring**         | Opensearch, Prometheus, Grafana, ELK, vector.dev |
+| **Cloud**              | Amazon Web Services, OVH |
+|                       | VPC, EC2, SQS, SNS, S3, DynamoDB, Cloudfront |
+| **Certifications**     | ITIL v4 (Mai 2020) |
 
+
+<br/>
+___
 <br/>
