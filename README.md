@@ -5,3 +5,5 @@
 
 Evens SOLIGNAC
 </td></tr></table>
+
+> git submodule add -f https://github.com/slgevens/hugo-split-theme.git themes/hugo-split-theme

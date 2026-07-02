@@ -1,81 +1,147 @@
-@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
 
-/* # name & surname */
-
+/* Name */
 .split-intro h1 {
-    font-size: 30px;
-    text-transform: initial;
-    margin-top: 50%;
-    margin-bottom: 2%;
+    font-size: clamp(20px, 2.4vw, 34px);
+    text-transform: none;
+    letter-spacing: clamp(1px, 0.15vw, 2px);
+    margin-top: 30%;
+    margin-bottom: clamp(10px, 1.2vw, 16px);
     font-family: 'Lato', sans-serif;
     font-weight: 700;
     color: #A50104;
+    line-height: 1;
 }
 
-
-/* # job title */
-
+/* Tagline */
 .split-intro .tagline {
-    font-size: 67px;
+    font-size: clamp(28px, 3.8vw, 56px);
+    line-height: 1.1;
     font-family: 'Lato', sans-serif;
     color: #F3F3F3;
+    font-weight: 700;
 }
 
-
-/* # */
-
-.split-bio h1,
-.split-bio .h1 {
-    color: #F3F3F3;
+/* Bio base */
+.split-bio {
     font-family: 'Lato', sans-serif;
+    font-size: clamp(16px, 1.5vw, 20px);
+    line-height: 1.7;
+    color: #848d96;
 }
 
-
-/* ## */
-
-.split-bio h2,
-.split-bio .h2 {
-    font-family: 'Lato', sans-serif;
-    font-size: 30px;
-    color: #F3F3F3;
-}
-
-
-/* ### */
-
-.split-bio h3,
-.split-bio .h3 {
-    font-family: 'Lato', sans-serif;
-    font-size: 21px;
-    color: #F3F3F3;
-    font-weight: bold;
-}
-
-
-/* ######  */
-
-.split-bio h6,
-.split-bio .h6 {
-    font-family: 'Lato', sans-serif;
-    font-size: 17px;
-    color: #F3F3F3;
-}
-
-.split-bio table {
+/* Contact table */
+.split-bio > table {
     margin-left: auto;
     font-family: 'Lato', sans-serif;
+    font-size: clamp(16px, 1.5vw, 20px);
+    color: #6a737b;
 }
 
+/* Section headings h2 */
+.split-bio h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: clamp(18px, 1.8vw, 24px);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #A50104;
+    margin-top: clamp(28px, 2.8vw, 44px);
+    margin-bottom: clamp(12px, 1.4vw, 18px);
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(165, 1, 4, 0.25);
+}
+
+/* Job title headings h3 */
+.split-bio h3 {
+    font-family: 'Lato', sans-serif;
+    font-size: clamp(16px, 1.6vw, 21px);
+    color: #e0e0e0;
+    font-weight: 700;
+    margin-top: clamp(16px, 1.8vw, 24px);
+    margin-bottom: 5px;
+    line-height: 1.4;
+}
+
+/* Lists */
 .split-bio ul {
     font-family: 'Lato', sans-serif;
-    color: #F3F3F3;
-    font-size: 18px;
+    color: #848d96;
+    font-size: clamp(15px, 1.4vw, 19px);
+    line-height: 1.7;
 }
 
-@media (min-width: 320px) and (max-width: 480px) {
-    .split-intro .tagline {
-        font-size: 55px;
-        padding-left: 1px;
+/* Links */
+.split-bio a {
+    color: #A50104 !important;
+    border-bottom: 1px dotted rgba(165, 1, 4, 0.35) !important;
+    transition-duration: 0.2s !important;
+}
+.split-bio a:hover {
+    color: #d0010b !important;
+    border-bottom: 1px dotted #d0010b !important;
+}
+
+/* Horizontal rules */
+.split-bio hr {
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.07);
+    margin: clamp(16px, 1.8vw, 26px) 0;
+}
+
+/* ── Skills table ──────────────────────────────────────── */
+.split-bio h2 ~ table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 8px;
+}
+
+.split-bio h2 ~ table td,
+.split-bio h2 ~ table th {
+    font-size: clamp(13px, 1.15vw, 16px);
+    padding: 7px 0;
+    vertical-align: top;
+    line-height: 1.5;
+    text-align: left !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+/* Label column */
+.split-bio h2 ~ table td:first-child {
+    color: #9aa3ac;
+    white-space: nowrap;
+    padding-right: 24px;
+    font-weight: 700;
+    font-size: clamp(11px, 0.9vw, 13px);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    width: 1%;
+}
+
+/* Value column */
+.split-bio h2 ~ table td:last-child {
+    color: #c8d0d8;
+}
+
+/* Contact table: override the skills styles */
+.split-bio > table td,
+.split-bio > table th {
+    font-size: clamp(16px, 1.5vw, 20px);
+    padding: 3px 0;
+    border-bottom: none;
+    color: #6a737b;
+    text-align: right !important;
+    text-transform: none;
+    letter-spacing: normal;
+    font-weight: normal;
+    white-space: normal;
+    width: auto;
+}
+
+/* Mobile */
+@media (max-width: 800px) {
+    .split-intro h1 {
+        margin-top: 10%;
     }
 }
 

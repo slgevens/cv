@@ -4,21 +4,22 @@ title: "evens.link"
 baseURL: https://evens.link/fr
 canonifyURLs: True
 enableEmoji: True
-enableGitInfo: True
 defaultContentLanguage: fr
 languageCode: fr
 pagination:
   pagerSize: 10
 
-copyright : "Copyright © 2016 – 2024 Evens SOLIGNAC. Tous droits réservés."
+copyright : "Copyright © 2016 – 2026 Evens SOLIGNAC. Tous droits réservés."
+
+disableKinds:
+  - RSS
 
 # Directories
-archetypeDir: archetypes
 contentDir: content
 dataDir: data
 publishDir: public
 staticDir: static
-layoutdir: layouts
+layoutDir: layouts
 
 languages:
   fr:
@@ -32,13 +33,21 @@ languages:
     languageName: English
     baseURL: https://evens.link/en
     contentDir: content/en
+    weight: 2
+  es:
+    title: "Evens SOLIGNAC — (Español)"
+    languageName: Español
+    baseURL: https://evens.link/es
+    contentDir: content/es
     weight: 3
 
 # Theme
 theme: "hugo-split-theme"
 
-blackfriday:
-  hrefTargetBlank: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 # Params
 params:
@@ -55,21 +64,19 @@ params:
     css:
       enable: true
   links:
-    - list1:
-        heading: '#THESLGCOMPANY'
-        link:
-          - text: GITHUB
-            url: 'https://github.com/slgevens/'
-          - text: "CV (FR) (PDF)"
-            url: "misc/FvYVz4oI8A8dE1IFp.pdf"
-          - text: "CV (EN) (PDF)"
-            url: "misc/Eh3MAn8KZ5wyHv4G0.pdf"
-    - list2:
-        heading: '#LIVE'
-        link:
-          - text: NOSTRUM CARE
-            url: 'https://www.nostrumcare.fr/'
-          - text: MA WEB MUTUELLE
-            url: 'https://apps.apple.com/us/app/mwm/id1593180602'
-          - text: BESEDO
-            url: 'https://besedo.com/'
+    - heading: '#THESLGCOMPANY'
+      items:
+        - text: GITHUB
+          url: 'https://github.com/slgevens/'
+        - text: "CV (FR) (PDF)"
+          url: "misc/FvYVz4oI8A8dE1IFp.pdf"
+        - text: "CV (EN) (PDF)"
+          url: "misc/Eh3MAn8KZ5wyHv4G0.pdf"
+    - heading: '#LIVE'
+      items:
+        - text: NOSTRUM CARE
+          url: 'https://www.nostrumcare.fr/'
+        - text: MA WEB MUTUELLE
+          url: 'https://apps.apple.com/us/app/mwm/id1593180602'
+        - text: BESEDO
+          url: 'https://besedo.com/'

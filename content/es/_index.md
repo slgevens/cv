@@ -8,11 +8,9 @@ tagline: Emprendedor, Arquitecto DevOps.
 | [evens@evens.link](mailto:evens@evens.link) :e-mail: |
 | [:fr:](https://evens.link) / [:us:](https://evens.link/en/) |
 
-<br />
-___
-<br />
+<hr>
 
-## | Tareas
+## Tareas
 
 ### 2019 — Líder DevOps @ [Besedo](https://besedo.com/)
 - Habilidades de liderazgo y mentoría para guiar y apoyar al equipo de DevOps.
@@ -36,11 +34,9 @@ ___
 - Orquestación y despliegue de servicios y software.
 - Mantenimiento de equipos de red propietarios.
 
-<br />
-___
-<br />
+<hr>
 
-## | Habilidades
+## Habilidades
 
 - __Habilidades sociales__: _Liderazgo de equipo, adaptabilidad, resolución de problemas, gestión de incidentes, mejora continua, documentación_
 - __Sistema operativo__: _Linux_
@@ -53,16 +49,12 @@ ___
 - __Certificaciones__:
     - _ITIL v4 (Mayo 2020)_
 
-<br />
-___
-<br />
+<hr>
 
-## | Formación
+## Formación
 
 ### 2016/18 — Maestría (RNCP1) @ [ESTIAM - Francia](https://www.estiam.education)
 - Arquitectura de soluciones de medios para distribución de contenido
 - Asociación de formación en el Instituto Nacional del Audiovisual - Francia (INA)
 
-<br />
-___
-<br />
+<hr>

@@ -7,14 +7,11 @@ tagline: Entrepreneur, DevOps Architect.
 |-:|
 | Paris, France :earth_americas: |
 | [evens@evens.link](mailto:evens@evens.link) :e-mail: |
-| [:fr:](https://evens.link) |
-<!-- | [:fr:](https://evens.link) / [:es:](https://evens.link/es/) | -->
+| [:fr:](https://evens.link) [:es:](https://evens.link/es/) |
 
-<br/>
-___
-<br/>
+<hr>
 
-## —\ Fonctions
+## Fonctions
 
 ### 2022 — Lead DevOps @ [Besedo](https://besedo.com/)
 - Leadership and mentoring skills to guide and support the DevOps team.
@@ -46,18 +43,14 @@ ___
 - Orchestration and deployment of services and software.
 - Maintenance of proprietary network equipment.
 
-<br/>
-<br/>
 
-## —\ Formation
+## Formation
 ### 2016-2018 — Master's Degree (RNCP1) @ [ESTIAM - France](https://www.estiam.education)
 - Architecture of media solutions for content distribution
 - Training partnership at the National Audiovisual Institute - France (INA)
 
-<br/>
-<br/>
 
-## —\ Skills
+## Skills
 | | |
 |------------------------|:--------:|
 | **Soft Skills**         | Team leadership, adaptability, problem-solving, incident management, continuous improvement, documentation |
@@ -72,6 +65,4 @@ ___
 | **Certifications**      | ITIL v4 (May 2020) |
 
 
-<br/>
-___
-<br/>
+<hr>

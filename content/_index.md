@@ -6,13 +6,11 @@ tagline: Entrepreneur, Architecte DevOps.
 |-:|
 | Paris, France :earth_americas: |
 | [evens@evens.link](mailto:evens@evens.link) :e-mail: |
-| [:us:](https://evens.link/en/) |
+| [:us:](https://evens.link/en/) [:es:](https://evens.link/es/) |
 
-<br/>
-___
-<br/>
+<hr>
 
-## —\ Fonctions
+## Fonctions
 
 ### 2022 – Lead DevOps @ [Besedo](https://besedo.com/)
 - Développement de compétence en leadership et en mentorat pour guider et soutenir l’équipe DevOps.
@@ -44,18 +42,14 @@ ___
 - Orchestration et déploiement de services et logiciels 
 - Maintenance d'équipements réseaux propriétaire
 
-<br/>
-<br/>
 
-## —\ Formation
+## Formation
 ### 2016-2018 — Master (RNCP1) @ [ESTIAM](https://www.estiam.education)
 - Architecture des solutions médias pour la diffusion de contenus
 - Partenariat formation à l’Institut National de l’audiovisuel (INA)
 
-<br/>
-<br/>
 
-## —\ Aptitudes
+## Aptitudes
 | | |
 |:--------|:--------:|
 | **Soft** | Leadership d'équipe, adaptabilité, résolution de problèmes, gestion des incidents, amélioration continue, documentation |
@@ -70,6 +64,4 @@ ___
 | **Certifications**     | ITIL v4 (Mai 2020) |
 
 
-<br/>
-___
-<br/>
+<hr>
