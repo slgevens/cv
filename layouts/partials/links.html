@@ -1,0 +1,14 @@
+<div class="split-lists">
+
+  {{ range .Site.Params.links }}
+    <div class="split-list">
+      <h3>{{ .heading }}</h3>
+      <ul>
+        {{ range .items }}
+          <li><a href="{{ .url }}">{{ .text }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  {{ end }}
+
+</div>
