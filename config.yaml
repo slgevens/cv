@@ -80,3 +80,5 @@ params:
           url: 'https://apps.apple.com/us/app/mwm/id1593180602'
         - text: BESEDO
           url: 'https://besedo.com/'
+        - text: 86b04780994a5df456e4fb0cb7f3ac415b66
+          url: '#d60f908a643adaaadc0d17b96aab9ef7'
